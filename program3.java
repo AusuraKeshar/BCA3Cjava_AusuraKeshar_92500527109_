@@ -1,4 +1,5 @@
- class program3
+/* write a java program to get personal information from user and display on screen*/
+class program3
 
 import java.util.Scanner;
 
