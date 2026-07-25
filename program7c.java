@@ -19,7 +19,3 @@ public class program7c {
     }
 
 }
-if if else else
-if if else if else
-    if else if else if else if else
-        switch
