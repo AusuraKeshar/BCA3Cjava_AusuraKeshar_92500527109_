@@ -1,7 +1,7 @@
 // write a java program to make a result card .
 import java.util.Scanner;
 
-class program8 {
+class program9 {
     public static void main(String args[]) {
 
         Scanner scanner = new Scanner(System.in);
